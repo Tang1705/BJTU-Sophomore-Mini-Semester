@@ -83,7 +83,7 @@
 
 用户点击相应的“详情”按钮，即可得到该次闯入时的监控视频截图。如下图所示。
 
-![](img/03.png)
+![](http://static.zybuluo.com/TangWill/pwn4snechua4whjtvjvnfndq/%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C.jpg)
 
 - 导航菜单
 
@@ -92,13 +92,13 @@
     当仓库无人监管时，用户可以启动入侵报警开关。当入侵报警开关启动后，若监控端监视到有闯入，页面则会提示报警信息，并且会将闯入信息和闯入监控视频截图展示在入侵记录表格中。如果已添加联系人，系统会给联系人发送信息。
     当仓库有人监管时，用户则可以禁用入侵报警开关，不影响页面任何操作。
 
-    ![](img/04.png)
+    ![](http://static.zybuluo.com/TangWill/y8sw0zi2ybs6dduzu7c8ahoo/%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C.jpg)
 
 - 添加联系人
 
   针对同一个仓库，用户可以添加个数上限为5的联系人，输入联系人姓名与联系人电话，在监控端识别到入侵时发送短信提醒用户，该功能用于在仓库有人闯入时，即便无人观看实时监控，也能及时收到提醒。
 
-  ![](img/05.png)
+  ![](http://static.zybuluo.com/TangWill/xnxke63y71r47l1bgo1u9z2d/%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C.jpg)
 
 > 月度安全报告
 
@@ -113,4 +113,4 @@
 
 ## 六、文档展示
 
-<img src="img/06.jpg" style="zoom:28%;" /><img src="img/08.jpg" style="zoom:28%;" /><img src="img/09.jpg" style="zoom:28%;" /><img src="img/10.jpg" style="zoom:28%;" /><img src="img/07.jpg" style="zoom:28%;" />
+<img src="http://static.zybuluo.com/TangWill/emxb3zjwe1w9cvl8ydbz3gvn/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200413103203.jpg" style="zoom:28%;" /><img src="http://static.zybuluo.com/TangWill/7ydjlugpaau70ao8unw2y1ii/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202004131032031.jpg" style="zoom:28%;" /><img src="http://static.zybuluo.com/TangWill/efq4xiuxl4mm2tk8vflzs2z0/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202004131032032.jpg" style="zoom:28%;" /><img src="http://static.zybuluo.com/TangWill/j2thvvr3owk1s9v4d15k8iin/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202004131032033.jpg" style="zoom:28%;" /><img src="http://static.zybuluo.com/TangWill/1lk5j0wra4x5bqan3c2bn2d0/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202004131032034.jpg" style="zoom:28%;" />
