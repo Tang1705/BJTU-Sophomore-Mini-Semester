@@ -111,4 +111,4 @@
 
 ## 六、文档展示
 
-<img src="../Camera%5Cimg%5C06.jpg" style="zoom:30%;" /><img src="../Camera%5Cimg%5C08.jpg" style="zoom:28%;" /><img src="../Camera%5Cimg%5C09.jpg" style="zoom:28%;" /><img src="../Camera%5Cimg%5C10.jpg" style="zoom:28%;" /><img src="../Camera%5Cimg%5C07.jpg" style="zoom:28%;" />
+<img src="img/06.jpg" style="zoom:28%;" /><img src="../Camera%5Cimg%5C08.jpg" style="zoom:28%;" /><img src="/Camera%5Cimg%5C09.jpg" style="zoom:28%;" /><img src="../Camera%5Cimg%5C10.jpg" style="zoom:28%;" /><img src="../Camera%5Cimg%5C07.jpg" style="zoom:28%;" />
