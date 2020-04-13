@@ -44,7 +44,7 @@
   - 登录或直接打开网页查看实时监控
   - 查看月度安全报告等
 
-![](img/01.png)
+![](http://static.zybuluo.com/TangWill/sw5opqzft80959h3s2x8um05/%E5%9B%BE%E7%89%871.png)
 
 ---
 
