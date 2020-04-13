@@ -3,7 +3,6 @@
 ## 一、项目背景
 基于实时的视频流,利用图像识别功能,自动检测视频中的运动物体。包括后端数据处理和前端 web 页面实时显示结果, 广泛应用在小区入侵监测,智能家居的安防,老人智能看护等领域; 加入人脸识别系统，结合其他的智能产品，实现高度自动化的物联网自动化运行环境。同时支持异常图像上传至云服务器,可以配合手机APP,实现全方位,实时监控的目的。 
 
----
 
 ## 二、硬件
 
@@ -14,8 +13,6 @@
 <div align=center><img height="150" src="http://static.zybuluo.com/TangWill/mmrkgojknahihs4juif0uxb7/image_1defagdvg1vbaidhle54qq1259.png"/></div>
 
 
----
-
 ## 三、主要技术
 
 - 基于深度图像处理框架 open cv 和数据计算模块 numpy
@@ -24,7 +21,6 @@
 -	Python 语言应用程序开发
 -	编写web 端，实现数据实时展示
 
----
 
 ## 四、项目介绍
 
@@ -48,7 +44,6 @@
 
 ![](http://static.zybuluo.com/TangWill/sw5opqzft80959h3s2x8um05/%E5%9B%BE%E7%89%871.png)
 
----
 
 ## 五、客户端展示
 
@@ -105,7 +100,7 @@
 - 高频入侵警告
   系统会从数据库里的所有截取到的入侵截图进行分析比对查找相似图片，并展示在高频入侵警告里。用户可以对于高频入侵图片上的人或物相应地提高警力。
 
----
+![](http://static.zybuluo.com/TangWill/9zfus323ulfj2lgvb4et2qk3/image_1e5ompv2t1ljm1gmkc461cpd17os4q.png)
 
 ## 六、文档展示
 <div align="center"><img src="http://static.zybuluo.com/TangWill/emxb3zjwe1w9cvl8ydbz3gvn/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200413103203.jpg" alt="02" width="28%" height="28%" />   <img src="http://static.zybuluo.com/TangWill/7ydjlugpaau70ao8unw2y1ii/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202004131032031.jpg" alt="03" width="28%" height="28%" />    <img src="http://static.zybuluo.com/TangWill/efq4xiuxl4mm2tk8vflzs2z0/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202004131032032.jpg" alt="04" width="28%" height="28%" />    <img src="http://static.zybuluo.com/TangWill/j2thvvr3owk1s9v4d15k8iin/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202004131032033.jpg" alt="05" width="28%" height="28%" />    <img src="http://static.zybuluo.com/TangWill/1lk5j0wra4x5bqan3c2bn2d0/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202004131032034.jpg" alt="06" width="28%" height="28%" /></div>
