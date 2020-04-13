@@ -11,9 +11,8 @@
 
 - 信息采集：Pi camera；
 
-<div align=center><img width="150" height="150" src="http://static.zybuluo.com/TangWill/mmrkgojknahihs4juif0uxb7/image_1defagdvg1vbaidhle54qq1259.png"/></div>
+<div align=center><img height="150" src="http://static.zybuluo.com/TangWill/mmrkgojknahihs4juif0uxb7/image_1defagdvg1vbaidhle54qq1259.png"/></div>
 
-<div style="background-color:none;height:150px;text-align:center;"><img src="http://static.zybuluo.com/TangWill/mmrkgojknahihs4juif0uxb7/image_1defagdvg1vbaidhle54qq1259.png" /></div>
 
 ---
 
