@@ -44,7 +44,7 @@
   - 登录或直接打开网页查看实时监控
   - 查看月度安全报告等
 
-![](../Camera%5Cimg%5C01.png)
+![](img/01.png)
 
 ---
 
@@ -56,7 +56,7 @@
 
 主页面由三个部分组成，分别为左侧的实时监控，右侧的入侵记录和右上角的导航菜单。
 
-![](../Camera%5Cimg%5C02.png)
+![](img/02.png)
 
 - 实时监控
 
@@ -81,7 +81,7 @@
 
 用户点击相应的“详情”按钮，即可得到该次闯入时的监控视频截图。如下图所示。
 
-![](../Camera%5Cimg%5C03.png)
+![](img/03.png)
 
 - 导航菜单
 
@@ -90,13 +90,13 @@
     当仓库无人监管时，用户可以启动入侵报警开关。当入侵报警开关启动后，若监控端监视到有闯入，页面则会提示报警信息，并且会将闯入信息和闯入监控视频截图展示在入侵记录表格中。如果已添加联系人，系统会给联系人发送信息。
     当仓库有人监管时，用户则可以禁用入侵报警开关，不影响页面任何操作。
 
-    ![](../Camera%5Cimg%5C04.png)
+    ![](img/04.png)
 
 - 添加联系人
 
   针对同一个仓库，用户可以添加个数上限为5的联系人，输入联系人姓名与联系人电话，在监控端识别到入侵时发送短信提醒用户，该功能用于在仓库有人闯入时，即便无人观看实时监控，也能及时收到提醒。
 
-  ![](../Camera%5Cimg%5C05.png)
+  ![](img/05.png)
 
 > 月度安全报告
 
@@ -111,4 +111,4 @@
 
 ## 六、文档展示
 
-<img src="img/06.jpg" style="zoom:28%;" /><img src="../Camera%5Cimg%5C08.jpg" style="zoom:28%;" /><img src="/Camera%5Cimg%5C09.jpg" style="zoom:28%;" /><img src="../Camera%5Cimg%5C10.jpg" style="zoom:28%;" /><img src="../Camera%5Cimg%5C07.jpg" style="zoom:28%;" />
+<img src="img/06.jpg" style="zoom:28%;" /><img src="img/08.jpg" style="zoom:28%;" /><img src="img/09.jpg" style="zoom:28%;" /><img src="img/10.jpg" style="zoom:28%;" /><img src="img/07.jpg" style="zoom:28%;" />
